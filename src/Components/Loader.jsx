@@ -6,7 +6,7 @@ const Loader = () => {
     <div>
       <span>
         <img
-          className="my-[15rem] lg:my-[19rem] ml-[8.5rem] md:ml-[20rem] lg:ml-[28rem] w-[120px] md:w-[150px]"
+          className="my-[15rem] lg:my-[19rem] ml-[8.5rem] md:ml-[20rem] lg:ml-[36rem] w-[120px] md:w-[150px]"
           src={loader}
           alt="loader"
         />
