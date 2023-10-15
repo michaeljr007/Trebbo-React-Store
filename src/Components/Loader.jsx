@@ -1,5 +1,5 @@
 import React from "react";
-import loader from "../img/animation_lmyrk8gr_small.gif";
+import loader from "../img/20231010_075828_0000-removebg-preview.png";
 
 const Loader = () => {
   return (
